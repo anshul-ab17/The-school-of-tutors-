@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/The-school-of-tutors-/static/css/main.6ce3d5a5.css",
+    "main.js": "/The-school-of-tutors-/static/js/main.659ad80e.js",
+    "index.html": "/The-school-of-tutors-/index.html",
+    "main.6ce3d5a5.css.map": "/The-school-of-tutors-/static/css/main.6ce3d5a5.css.map",
+    "main.659ad80e.js.map": "/The-school-of-tutors-/static/js/main.659ad80e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce3d5a5.css",
+    "static/js/main.659ad80e.js"
+  ]
+}
